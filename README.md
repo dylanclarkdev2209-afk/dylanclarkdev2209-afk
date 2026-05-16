@@ -1,7 +1,8 @@
-# Olá, eu sou o Dylan Clark Lopes! 👋
+# Olá, eu sou Dylan Clark Lopes! 👋
 
 <div align="right">
-  <img height="180em" src="https://vercel.app[dylanclarkdev2209-afk]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- Estatísticas automáticas do GitHub -->
+  <img height="180em" src="https://vercel.app"/>
 </div>
 
 ### 🚀 Sobre Mim
@@ -38,7 +39,7 @@ Aqui estão as tecnologias que domino e estou aprofundando diariamente durante o
 Se você quiser acompanhar a minha evolução diária no código ou conversar sobre oportunidades profissionais:
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/dylan-clark-lopes-9245182b8/" target="_blank">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/dylan-clark-lopes-9245182b8/)" target="_blank">
     <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
