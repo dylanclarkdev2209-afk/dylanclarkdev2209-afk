@@ -38,8 +38,8 @@ Aqui estão as tecnologias que domino e estou aprofundando diariamente durante o
 Se você quiser acompanhar a minha evolução diária no código ou conversar sobre oportunidades profissionais:
 
 <div align="left">
-  <a href="[LINK_DO_SEU_LINKEDIN]" target="_blank">
-    <img src="https://www.linkedin.com/in/dylan-clark-lopes-9245182b8/" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/dylan-clark-lopes-9245182b8/" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
   </a>
 </div>
 
